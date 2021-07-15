@@ -12,7 +12,29 @@ h1 {
     color: #fff;
 }
 
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+}
+
 a {
     color: Aquamarine;
     font-size: 16px;
+}
+
+p {
+    font-size: 21px;
+    color: gray;
+}
+
+#about {
+    margin-top: 20px;
+}
+
+#download {
+    margin-top: 20px;
+}
+
+footer {
+    text-align: right;
 }
